@@ -1,6 +1,5 @@
 # github-scraper
-Python script that scrap developers information in github
-
+Activate virtual environment
 ```
 sudo apt install python3-pip python3-virtualenv
 ```
